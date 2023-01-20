@@ -1,5 +1,4 @@
 import React from "react";
-
 function Item({ name, category }) {
   return (
     <li className="">
@@ -10,4 +9,5 @@ function Item({ name, category }) {
   );
 }
 
+export default Item;
 export default Item;
